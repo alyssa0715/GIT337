@@ -1,5 +1,8 @@
+
+/* CSS by Alyssa */
+
 h1 {
-    font-weight:bold;
-    text-decoration: underline;
-    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5em;
+    color: maroon;
 }
